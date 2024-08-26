@@ -3,7 +3,7 @@
 # Usage
 
 ```bash
-croot && git clone https://github.com/SigmaDroid-Project/vendor_lineage-priv_keys-template -b master vendor/lineage-priv/keys
+croot && git clone https://github.com/Gtajisa/vendor_lineage-priv_keys-template -b master vendor/lineage-priv/keys
 ```
 
 ```bash
