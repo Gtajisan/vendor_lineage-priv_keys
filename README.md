@@ -1,4 +1,10 @@
 # lineage-priv_keys-template
+# crave run
+**run**
+```
+# Private keys
+git clone https://github.com/Gtajisam/vendor_lineage-priv_keys.git vendor/lineage-priv/keys
+```
 
 # Usage
 
